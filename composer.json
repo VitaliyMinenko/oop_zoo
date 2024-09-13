@@ -1,0 +1,20 @@
+{
+    "name": "user/unity",
+    "description": "My test proj",
+    "type": "project",
+    "license": "Free",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vitalii",
+            "email": "minenkovitaliy1987@gmail.com"
+        }
+    ],
+    "require": {
+        "tightenco/collect": "^9.52"
+    }
+}
